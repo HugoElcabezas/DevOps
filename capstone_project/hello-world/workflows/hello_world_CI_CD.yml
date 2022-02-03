@@ -21,7 +21,6 @@ jobs:
 
     defaults:
       run:
-        working-directory: /
         working-directory: ./capstone_project/hello-world/
 
     steps:
