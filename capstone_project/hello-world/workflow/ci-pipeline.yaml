@@ -3,7 +3,7 @@ name: Pipeline Hello World CI/CD
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
